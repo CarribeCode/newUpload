@@ -1,0 +1,116 @@
+body {
+  padding-top: 30px;
+  background-color: #536162;
+  text-align: center;
+}
+
+.presentation {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  margin: 30px;
+}
+
+h1 {
+  color: #7eca9c;
+  font-family: Papyrus, fantasy;
+}
+
+h3 {
+  color: #7eca9c;
+}
+
+table {
+  align-self: center;
+  color: #7eca9c;
+  font-size: 1.5rem;
+  padding: 30px;
+  margin: auto;
+}
+
+.dTable{
+  margin-top: 50px;
+}
+
+button {
+  width: 80px;
+  height: 20px;
+  border-radius: 15px;
+  border: 0;
+}
+
+.joy1 {
+  font-family: Papyrus, fantasy;
+  background-color: #fff600;
+  color: #046582;
+}
+
+.joy2 {
+  font-family: Luminari, fantasy;
+  background-color: #ff005c;
+  color: #fff;
+}
+
+.joy3 {
+  font-family: Apple Chancery, cursive;
+  background-color: #e6d5b8;
+  color: #e40017;
+}
+
+.joy4 {
+  font-family: Snell Roundhand, cursive;
+  background-color: #290149;
+  color: #a7c5eb;
+}
+
+.dark1 {
+  font-family: Noto Sans, sans-serif;
+  background-color: #f4c983;
+  color: #484018;
+}
+
+.dark2 {
+  font-family: Courier, monospace;
+  background-color: #222831;
+  color: #e40017;
+}
+
+.dark3 {
+  font-family: OCR A Std, monospace;
+  background-color: #630000;
+  color: #9e9d89;
+}
+
+.dark4 {
+  font-family: Impact, fantasy;
+  background-color: #c06014;
+  color: #000;
+}
+
+#joy:hover {
+  background-color: #fff;
+  color: #fa1e0e;
+}
+
+#dark:hover {
+  background-color: #000;
+  color: #fa1e0e;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #7eca9c;
+  border-width: 5px;
+  width: 50%;
+}
+
+footer {
+  margin: 20px;
+  color: #dddddd;
+  font-family: Papyrus, fantasy;
+}
